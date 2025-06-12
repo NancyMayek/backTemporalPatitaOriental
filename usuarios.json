@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "nombre": "Madre de",
+    "apellido": "Dragones",
+    "email": "emilia@gmail.com",
+    "direccion": "Jalisco Mexico",
+    "CP": "78889",
+    "imagen": "https://res.cloudinary.com/dkufsisvv/image/upload/v1749667979/user_uploads/nsjouek8mk5txreyo7mv.jpg",
+    "telefono": "2214188737",
+    "contraseña": "emilia"
+  },
+  {
+    "id": 2,
+    "nombre": "Alexander",
+    "apellido": "Hamilton",
+    "email": "hamilton@homail.com",
+    "direccion": "Guadalajara Jalisco",
+    "CP": "34555",
+    "imagen": "https://res.cloudinary.com/dkufsisvv/image/upload/v1749667788/user_uploads/y8o2nbrv0mnfysjtfgjg.jpg",
+    "telefono": "234567889",
+    "contraseña": "andrew"
+  },
+  {
+    "id": 3,
+    "nombre": "Regina",
+    "apellido": "George",
+    "email": "meangurl@gmail.com",
+    "direccion": "Puerto Vallarta",
+    "CP": "334322",
+    "imagen": "https://res.cloudinary.com/dkufsisvv/image/upload/v1749668295/user_uploads/p7866g9otzj1aezx3dwt.jpg",
+    "telefono": "12321321321",
+    "contraseña": "regina"
+  },
+  {
+    "id": 4,
+    "nombre": "Nancy Mayek",
+    "apellido": "Torres Aguilar",
+    "email": "mayekqua@gmail.com",
+    "direccion": "Xona Puebla Pue",
+    "CP": "234454",
+    "imagen": "https://res.cloudinary.com/dkufsisvv/image/upload/v1749680202/user_uploads/pmgx0fzunqxqo4mjrfxa.jpg",
+    "telefono": "2214188737",
+    "contraseña": "1234"
+  },
+  {
+    "id": 5,
+    "nombre": "Percy Jackson",
+    "apellido": "Torres",
+    "email": "mayekqu@gmail.com",
+    "direccion": "nilo 345",
+    "CP": "72223",
+    "imagen": "",
+    "telefono": "2222222222",
+    "contraseña": "aNNQN6YaxTCtFZw"
+  },
+  {
+    "id": 6,
+    "nombre": "Eduardo",
+    "apellido": "Alvarez",
+    "email": "eduardo@homail.com",
+    "direccion": "Xona Puebla Pue",
+    "CP": "72229",
+    "imagen": "https://res.cloudinary.com/dkufsisvv/image/upload/v1749702342/user_uploads/xcnefujykx9b4gqqhgpn.jpg",
+    "telefono": "2214189033",
+    "contraseña": "Eduardo19"
+  },
+  {
+    "id": 7,
+    "nombre": "Norm",
+    "apellido": "Jas",
+    "email": "meNorma@gmail.com",
+    "direccion": "Puebla. Pue centro historico",
+    "CP": "72228",
+    "imagen": "https://res.cloudinary.com/dkufsisvv/image/upload/v1749705747/user_uploads/frpwhjjmxe6f6geaeg84.jpg",
+    "telefono": "2214188737",
+    "contraseña": "aNNQN6YaxTCtFZw"
+  }
+]
